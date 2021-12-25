@@ -4,24 +4,25 @@ return `DONASI BISA VIA BANK / E-MONEY
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ GADA
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ GADA
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ GADA
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ GADA
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 085936617237
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ085936617237
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 08595612466501
 	
-Semuanya atas nama RI****DI
+	
+Semuanya atas nama A****BB
 `
 	}
 
